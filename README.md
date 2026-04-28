@@ -15,7 +15,7 @@ Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na U
  
 * **Habilidades Técnicas:** ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei em um projeto acadêmico de Frontend no qual desenvolvi o Park Control, uma solução voltada à gestão de estacionamentos utilizando HTML5, CSS3 e JavaScript. O sistema foi concebido com foco na experiência do usuário, permitindo a visualização de vagas em tempo real e a realização de reservas remotas. Dessa forma, contribui para a otimização do fluxo operacional e proporciona mais praticidade e conveniência aos clientes.
  
 ---
  
