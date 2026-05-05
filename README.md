@@ -43,9 +43,7 @@ Atualmente cursando o 2º período de Analise e desenvolvimento de sistemas na U
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]([./projeto-ia-churn/](https://github.com/dybala011/portfolio-henrique-gustavo-silva-de-oliveira/tree/main/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi) 
-|[Ver Projeto]([./projeto-ia-churn/]
-
+| **Desenvolvimento App Videoconferência Manus AI Jitsi** | Projeto de Criação de um App interativo com acesso a videoconferência, estruturado pelo Manus. | [Ver Projeto](./projeto-banco-dados/) |
 ---
  
 ### 🏗 Estrutura do Repositório
