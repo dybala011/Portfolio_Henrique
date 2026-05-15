@@ -1,4 +1,4 @@
-# Engenharia Reversa e o Futuro do Desenvolvedor Júnior 🧠💻
+# Engenharia Reversa 🧠💻
 
 Este projeto apresenta uma análise crítica sobre como o desenvolvimento assistido por IA e a engenharia reversa estão transformando o papel dos engenheiros de software, focando na transição da escrita de código para a lógica arquitetural.
 
